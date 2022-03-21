@@ -1,4 +1,4 @@
-# Sample Project
+# Polynyas Project
 
 This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
 
@@ -14,9 +14,12 @@ This is as an example on how teams can structure their project repositories. Tha
 ## Folders
 
 ### `contributors`
-Each team member has it's own folder under contributors, where he/she can
-work on their contribution. Having a dedicated folder for one-self helps to 
-prevent conflicts when merging with master.
+* Tasha Snow
+* Wilson Sauthoff
+* Maria Lozano
+* Mengnan Zhao
+* Loïc Bachelot
+* Ann-Sofie Zinck
 
 ### `notebooks`
 Notebooks that are considered delivered results for the project should go in
