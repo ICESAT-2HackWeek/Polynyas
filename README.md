@@ -14,12 +14,12 @@ This is as an example on how teams can structure their project repositories. Tha
 ## Folders
 
 ### `contributors`
-Tasha Snow
-Wilson Sauthoff
-Maria Lozano
-Mengnan Zhao
-Loïc Bachelot
-Ann-Sofie Zinck
+* Tasha Snow
+* Wilson Sauthoff
+* Maria Lozano
+* Mengnan Zhao
+* Loïc Bachelot
+* Ann-Sofie Zinck
 
 ### `notebooks`
 Notebooks that are considered delivered results for the project should go in
